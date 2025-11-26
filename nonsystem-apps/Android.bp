@@ -1,0 +1,12 @@
+// MIUI Non-System Apps - Prebuilt APKs
+
+android_app_import {
+    name: "MIUICompass",
+    owner: "xiaomi",
+    apk: "MIUICompass/MIUICompass.apk",
+    presigned: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    privileged: false,
+}
