@@ -18,3 +18,135 @@ dex_import {
     jars: ["miuix.jar"],
 }
 
+dex_import {
+    name: "MiuiBooster",
+    owner: "xiaomi",
+    jars: ["MiuiBooster.jar"],
+}
+
+dex_import {
+    name: "MiuiSettingsSearchLib",
+    owner: "xiaomi",
+    jars: ["MiuiSettingsSearchLib.jar"],
+}
+
+dex_import {
+    name: "com.xiaomi.NetworkBoost",
+    owner: "xiaomi",
+    jars: ["com.xiaomi.NetworkBoost.jar"],
+}
+
+dex_import {
+    name: "com.xiaomi.hardware.camera.companion-V1",
+    owner: "xiaomi",
+    jars: ["com.xiaomi.hardware.camera.companion-V1.jar"],
+}
+
+dex_import {
+    name: "com.xiaomi.nfc",
+    owner: "xiaomi",
+    jars: ["com.xiaomi.nfc.jar"],
+}
+
+dex_import {
+    name: "com.xiaomi.slalib",
+    owner: "xiaomi",
+    jars: ["com.xiaomi.slalib.jar"],
+}
+
+dex_import {
+    name: "miui-connectivity-service",
+    owner: "xiaomi",
+    jars: ["miui-connectivity-service.jar"],
+}
+
+dex_import {
+    name: "miui-embedding-window",
+    owner: "xiaomi",
+    jars: ["miui-embedding-window.jar"],
+}
+
+dex_import {
+    name: "miui-enterprise-sdk",
+    owner: "xiaomi",
+    jars: ["miui-enterprise-sdk.jar"],
+}
+
+dex_import {
+    name: "miui-telephony-common",
+    owner: "xiaomi",
+    jars: ["miui-telephony-common.jar"],
+}
+
+dex_import {
+    name: "miui-wifi-service",
+    owner: "xiaomi",
+    jars: ["miui-wifi-service.jar"],
+}
+
+dex_import {
+    name: "vendor.xiaomi.hardware.aidl.intentaware-V1-java",
+    owner: "xiaomi",
+    jars: ["vendor.xiaomi.hardware.aidl.intentaware-V1-java.jar"],
+}
+
+dex_import {
+    name: "vendor.xiaomi.hardware.aidlbgservice-V1-java",
+    owner: "xiaomi",
+    jars: ["vendor.xiaomi.hardware.aidlbgservice-V1-java.jar"],
+}
+
+dex_import {
+    name: "vendor.xiaomi.hardware.bgservice-V1.0-java",
+    owner: "xiaomi",
+    jars: ["vendor.xiaomi.hardware.bgservice-V1.0-java.jar"],
+}
+
+dex_import {
+    name: "vendor.xiaomi.hardware.misys-V1.0-java",
+    owner: "xiaomi",
+    jars: ["vendor.xiaomi.hardware.misys-V1.0-java.jar"],
+}
+
+dex_import {
+    name: "vendor.xiaomi.hardware.misys-V2.0-java",
+    owner: "xiaomi",
+    jars: ["vendor.xiaomi.hardware.misys-V2.0-java.jar"],
+}
+
+dex_import {
+    name: "vendor.xiaomi.hardware.misys-V4.0-java",
+    owner: "xiaomi",
+    jars: ["vendor.xiaomi.hardware.misys-V4.0-java.jar"],
+}
+
+dex_import {
+    name: "vendor.xiaomi.hardware.misys.V3_0",
+    owner: "xiaomi",
+    jars: ["vendor.xiaomi.hardware.misys.V3_0.jar"],
+}
+
+dex_import {
+    name: "vendor.xiaomi.hardware.misys.common-V2-java",
+    owner: "xiaomi",
+    jars: ["vendor.xiaomi.hardware.misys.common-V2-java.jar"],
+}
+
+dex_import {
+    name: "vendor.xiaomi.hardware.satellite-V1-java",
+    owner: "xiaomi",
+    jars: ["vendor.xiaomi.hardware.satellite-V1-java.jar"],
+}
+
+dex_import {
+    name: "vendor.xiaomi.hardware.videoservice-V4-java",
+    owner: "xiaomi",
+    jars: ["vendor.xiaomi.hardware.videoservice-V4-java.jar"],
+}
+
+dex_import {
+    name: "xiaomi-telephony-common",
+    owner: "xiaomi",
+    jars: ["xiaomi-telephony-common.jar"],
+}
+
