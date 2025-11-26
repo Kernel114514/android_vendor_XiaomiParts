@@ -1,0 +1,20 @@
+// MIUI Framework - Prebuilt JARs for AOSP/LineageOS
+
+dex_import {
+    name: "miui-framework",
+    owner: "xiaomi",
+    jars: ["miui-framework.jar"],
+}
+
+dex_import {
+    name: "miui-services",
+    owner: "xiaomi",
+    jars: ["miui-services.jar"],
+}
+
+dex_import {
+    name: "miuix",
+    owner: "xiaomi",
+    jars: ["miuix.jar"],
+}
+
