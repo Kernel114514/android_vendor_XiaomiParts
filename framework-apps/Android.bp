@@ -1,0 +1,34 @@
+// MIUI Framework Apps - Prebuilt APKs
+
+android_app_import {
+    name: "miuisystem",
+    owner: "xiaomi",
+    apk: "miuisystem.apk",
+    presigned: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    system_ext_specific: true,
+    privileged: true,
+}
+
+android_app_import {
+    name: "RtMiCloudSDK",
+    owner: "xiaomi",
+    apk: "RtMiCloudSDK.apk",
+    presigned: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    system_ext_specific: true,
+    privileged: true,
+}
+
+prebuilt_etc {
+    name: "framework-ext-res",
+    owner: "xiaomi",
+    src: "framework-ext-res.apk",
+    sub_dir: "framework",
+    system_ext_specific: true,
+    filename: "framework-ext-res.apk",
+}
