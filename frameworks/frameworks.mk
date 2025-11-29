@@ -2,8 +2,7 @@
 
 # Add MIUI framework to bootclasspath
 PRODUCT_BOOT_JARS += miui-framework
-PRODUCT_BOOT_JARS += miui-services
-PRODUCT_BOOT_JARS += miuix
+PRODUCT_BOOT_JARS += miui-service
 PRODUCT_BOOT_JARS += MiuiBooster
 PRODUCT_BOOT_JARS += MiuiSettingsSearchLib
 PRODUCT_BOOT_JARS += com.xiaomi.hardware.camera.companion-V1
