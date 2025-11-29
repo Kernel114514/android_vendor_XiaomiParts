@@ -10,6 +10,7 @@ android_app_import {
     },
     system_ext_specific: true,
     privileged: true,
+    preprocessed: true,
 }
 
 android_app_import {
@@ -22,6 +23,7 @@ android_app_import {
     },
     system_ext_specific: true,
     privileged: true,
+    preprocessed: true,
 }
 
 prebuilt_etc {
