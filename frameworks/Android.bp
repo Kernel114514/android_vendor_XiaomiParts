@@ -30,10 +30,11 @@ dex_import {
     jars: ["MiuiSettingsSearchLib.jar"],
 }
 
-dex_import {
+java_import {
     name: "com.xiaomi.NetworkBoost",
     owner: "xiaomi",
     jars: ["com.xiaomi.NetworkBoost.jar"],
+    installable: true,
 }
 
 dex_import {
@@ -90,10 +91,11 @@ dex_import {
     jars: ["vendor.xiaomi.hardware.aidl.intentaware-V1-java.jar"],
 }
 
-dex_import {
+java_import {
     name: "vendor.xiaomi.hardware.aidlbgservice-V1-java",
     owner: "xiaomi",
     jars: ["vendor.xiaomi.hardware.aidlbgservice-V1-java.jar"],
+    installable: true,
 }
 
 dex_import {
